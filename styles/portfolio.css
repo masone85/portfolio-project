@@ -35,9 +35,11 @@ h4 {
 
 p {
   font-weight: normal;
-  font-size: 16px;
-  line-height: 30px;
+  font-size: 20px;
+  line-height: 25px;
 }
+
+
 
 .hero {
   background: var(--secondary-color);
